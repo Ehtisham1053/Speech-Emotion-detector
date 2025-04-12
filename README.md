@@ -1,5 +1,6 @@
 # Speech Emotion Recognition (SER) System
 
+
 This project implements a complete Speech Emotion Recognition system that analyzes speech patterns to identify human emotions such as happy, sad, angry, fearful, neutral, etc.
 
 ## Features
